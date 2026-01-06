@@ -26,7 +26,7 @@ Explicação breve das pastas principais.
 
 Commits pequenos e frequentes;
 Mensagens de commit claras
-  Estrutura de commit: “[<Tipo>] <ID da Tarefa> : <descrição>”
+  Estrutura de commit: [<Tipo>] <ID da Tarefa> : <descrição>
 
 👤 Autor
 
