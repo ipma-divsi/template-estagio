@@ -1,0 +1,18 @@
+{% extends 'core/base.html' %}
+
+{% block title %}Página Inicial{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1>Bem-vindo ao Sistema Django!</h1>
+    <p>Este é o seu site moderno, com design responsivo e bonito.</p>
+    {% if not user.is_authenticated %}
+        <a href="/login/" class="btn">Entrar</a>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% if not user.is_authenticated %}
+    <a href="/login/">Login</a>
+    <a href="/register/">Registar</a>
+{% endif %}
