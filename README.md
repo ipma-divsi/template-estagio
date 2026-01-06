@@ -24,9 +24,10 @@ Explicação breve das pastas principais.
 
 📝 Regras
 
-Commits pequenos e frequentes;
-Mensagens de commit claras
-  Estrutura de commit: [<Tipo>] <ID da Tarefa> : <descrição>
+- Commits pequenos e frequentes;
+- Mensagens de commit claras
+  - Estrutura de commit:
+    - [Tipo] ID da Tarefa : descrição
 
 👤 Autor
 
