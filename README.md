@@ -16,6 +16,7 @@ Breve descrição do projeto, objetivos e contexto.
 ## ▶️ Como executar
 ```bash
 # comandos necessários
+```
 
 📁 Estrutura do Projeto
 
