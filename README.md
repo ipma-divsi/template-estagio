@@ -18,18 +18,18 @@ Breve descrição do projeto, objetivos e contexto.
 # comandos necessários
 ```
 
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 Explicação breve das pastas principais.
 
-📝 Regras
+## 📝 Regras
 
 - Commits pequenos e frequentes;
 - Mensagens de commit claras
   - Estrutura de commit:
     - [Tipo] ID da Tarefa : descrição
 
-👤 Autor
+## 👤 Autor
 
 Nome do Estagiário
 Orientador: <teu nome>
